@@ -1,2 +1,6 @@
 File added by another developer 
+
 file changes are done in dev branch
+
+changes done in branch2
+another lines added
